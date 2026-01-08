@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:38BDF8&height=220&section=header&text=Mirza%20Sufyan%20Baig&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h2 align="center">AI • ML • Generative AI Engineer</h2>
+<h2 align="center">AI • ML • Generative AI </h2>
 
 <p align="center">
   <b>LLMs | RAG Systems | Agentic AI | NLP | Computer Vision</b><br>
