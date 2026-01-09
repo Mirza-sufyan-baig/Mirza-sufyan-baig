@@ -143,6 +143,4 @@ Actively seeking **AI / GenAI / ML Engineer roles** focused on **modern AI archi
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:38BDF8&height=120&section=footer"/>
 </p>
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
